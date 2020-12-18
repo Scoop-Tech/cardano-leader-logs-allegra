@@ -1,0 +1,15 @@
+{
+  "poolId":           "83ed61f50d38d4621370d1dff2e72dad62c8e789df464b0649ba87ac",
+  "vrfSkey":          "./vrf.skey",
+
+  "genesisShelley":   "../bp/mainnet-shelley-genesis.json",
+  "genesisByron":     "../bp/mainnet-byron-genesis.json",
+
+  "ledgerState":      "",
+
+  "libsodiumBinary":  "/usr/local/lib/libsodium.so",
+  "cardanoCLI":       "/home/dom/.local/bin/cardano-cli",
+  "nodeStatsURL":     "http://127.0.0.1:12798/metrics",
+  
+  "timeZone":         "Europe/London"
+}
